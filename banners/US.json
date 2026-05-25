@@ -1,0 +1,14 @@
+{
+  "country": "United States",
+  "banner": "minecraft:red_banner",
+  "patterns": [
+    {
+      "color": "white",
+      "pattern": "minecraft:small_stripes"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:square_top_right"
+    }
+  ]
+}
