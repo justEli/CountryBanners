@@ -1,0 +1,22 @@
+{
+  "country": "Portugal",
+  "banner": "minecraft:green_banner",
+  "patterns": [
+    {
+      "color": "yellow",
+      "pattern": "minecraft:rhombus"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:diagonal_up_left"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:diagonal_up_right"
+    },
+    {
+      "color": "green",
+      "pattern": "minecraft:stripe_top"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Spain",
+  "banner": "minecraft:red_banner",
+  "patterns": [
+    {
+      "color": "yellow",
+      "pattern": "minecraft:stripe_center"
+    },
+    {
+      "color": "yellow",
+      "pattern": "minecraft:stripe_center"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "country": "Japan",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "red",
+      "pattern": "minecraft:circle"
+    }
+  ]
+}

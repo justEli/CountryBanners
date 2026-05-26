@@ -1,0 +1,18 @@
+{
+  "country": "Denmark",
+  "banner": "minecraft:red_banner",
+  "patterns": [
+    {
+      "color": "white",
+      "pattern": "minecraft:half_horizontal"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_center"
+    }
+  ]
+}

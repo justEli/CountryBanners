@@ -1,0 +1,18 @@
+{
+  "country": "Mexico",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "green",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_bottom"
+    },
+    {
+      "color": "brown",
+      "pattern": "minecraft:circle"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Ireland",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "green",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "orange",
+      "pattern": "minecraft:stripe_bottom"
+    }
+  ]
+}

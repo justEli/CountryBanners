@@ -1,0 +1,18 @@
+{
+  "country": "Trinidad and Tobago",
+  "banner": "minecraft:red_banner",
+  "patterns": [
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_downleft"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_downleft"
+    },
+    {
+      "color": "black",
+      "pattern": "minecraft:stripe_downleft"
+    }
+  ]
+}

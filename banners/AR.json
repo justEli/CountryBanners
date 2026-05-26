@@ -1,0 +1,18 @@
+{
+  "country": "Argentina",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "light_blue",
+      "pattern": "minecraft:stripe_right"
+    },
+    {
+      "color": "light_blue",
+      "pattern": "minecraft:stripe_left"
+    },
+    {
+      "color": "yellow",
+      "pattern": "minecraft:circle"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "country": "El Salvador",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_left"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_right"
+    }
+  ]
+}

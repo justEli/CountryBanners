@@ -1,0 +1,30 @@
+{
+  "country": "Canada",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "red",
+      "pattern": "minecraft:cross"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_left"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_middle"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:border"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_bottom"
+    }
+  ]
+}

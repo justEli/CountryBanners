@@ -1,0 +1,22 @@
+{
+  "country": "Croatia",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_right"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_right"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_left"
+    },
+    {
+      "color": "yellow",
+      "pattern": "minecraft:flower"
+    }
+  ]
+}

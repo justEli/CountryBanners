@@ -1,0 +1,18 @@
+{
+  "country": "Russia",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "blue",
+      "pattern": "minecraft:half_vertical"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_center"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_left"
+    }
+  ]
+}

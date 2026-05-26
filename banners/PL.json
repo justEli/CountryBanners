@@ -1,0 +1,10 @@
+{
+  "country": "Poland",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "red",
+      "pattern": "minecraft:half_vertical"
+    }
+  ]
+}

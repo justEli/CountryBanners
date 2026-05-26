@@ -1,0 +1,18 @@
+{
+  "country": "Texas",
+  "banner": "minecraft:red_banner",
+  "patterns": [
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:half_vertical_right"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_top"
+    }
+  ]
+}

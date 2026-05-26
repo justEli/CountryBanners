@@ -1,0 +1,22 @@
+{
+  "country": "Switzerland",
+  "banner": "minecraft:red_banner",
+  "patterns": [
+    {
+      "color": "white",
+      "pattern": "minecraft:straight_cross"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:border"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_bottom"
+    }
+  ]
+}

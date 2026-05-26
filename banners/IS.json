@@ -1,0 +1,18 @@
+{
+  "country": "Iceland",
+  "banner": "minecraft:blue_banner",
+  "patterns": [
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_middle"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_center"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:straight_cross"
+    }
+  ]
+}

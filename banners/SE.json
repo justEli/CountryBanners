@@ -1,0 +1,22 @@
+{
+  "country": "Sweden",
+  "banner": "minecraft:blue_banner",
+  "patterns": [
+    {
+      "color": "yellow",
+      "pattern": "minecraft:half_horizontal"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:half_horizontal_bottom"
+    },
+    {
+      "color": "yellow",
+      "pattern": "minecraft:stripe_center"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Hungary",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "green",
+      "pattern": "minecraft:stripe_left"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_right"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "country": "Czech Republic",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "red",
+      "pattern": "minecraft:half_vertical"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:triangle_top"
+    }
+  ]
+}

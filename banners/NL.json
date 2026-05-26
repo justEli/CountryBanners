@@ -1,0 +1,14 @@
+{
+  "country": "The Netherlands",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_right"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_left"
+    }
+  ]
+}

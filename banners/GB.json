@@ -1,0 +1,30 @@
+{
+  "country": "Great Britain",
+  "banner": "minecraft:blue_banner",
+  "patterns": [
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_downleft"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_downright"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:cross"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_center"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_middle"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:straight_cross"
+    }
+  ]
+}

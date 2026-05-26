@@ -1,0 +1,18 @@
+{
+  "country": "Finland",
+  "banner": "minecraft:white_banner",
+  "patterns": [
+    {
+      "color": "blue",
+      "pattern": "minecraft:half_horizontal"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_center"
+    }
+  ]
+}

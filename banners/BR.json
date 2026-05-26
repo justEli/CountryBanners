@@ -1,0 +1,14 @@
+{
+  "country": "Brazil",
+  "banner": "minecraft:green_banner",
+  "patterns": [
+    {
+      "color": "yellow",
+      "pattern": "minecraft:rhombus"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:circle"
+    }
+  ]
+}

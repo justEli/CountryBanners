@@ -1,0 +1,18 @@
+{
+  "country": "European Union",
+  "banner": "minecraft:blue_banner",
+  "patterns": [
+    {
+      "color": "yellow",
+      "pattern": "minecraft:flower"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:circle"
+    },
+    {
+      "color": "blue",
+      "pattern": "minecraft:bricks"
+    }
+  ]
+}

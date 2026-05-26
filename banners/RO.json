@@ -1,0 +1,14 @@
+{
+  "country": "Romania",
+  "banner": "minecraft:yellow_banner",
+  "patterns": [
+    {
+      "color": "blue",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_bottom"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "country": "Belgium",
+  "banner": "minecraft:yellow_banner",
+  "patterns": [
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "black",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_bottom"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "country": "Türkiye",
+  "banner": "minecraft:red_banner",
+  "patterns": [
+    {
+      "color": "white",
+      "pattern": "minecraft:half_vertical"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_middle"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:curly_border"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_bottom"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "red",
+      "pattern": "minecraft:circle"
+    }
+  ]
+}
