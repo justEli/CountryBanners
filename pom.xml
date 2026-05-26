@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <distributionManagement>
-        <downloadUrl>https://modrinth.com/project/countrybanners</downloadUrl>
+        <downloadUrl>https://modrinth.com/plugin/countrybanners</downloadUrl>
     </distributionManagement>
 
     <modules>
