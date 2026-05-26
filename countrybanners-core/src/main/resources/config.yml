@@ -1,0 +1,36 @@
+banner:
+  # Display name of every banner.
+  #  {country}  = placeholder for country name
+  name: 'Flag of {country}'
+  # Rarity of the flag banners.
+  #  'common'   = white
+  #  'uncommon' = yellow
+  #  'rare'     = aqua
+  #  'epic'     = light purple
+  rarity: 'uncommon'
+  patterns:
+    # Hide the list of banner patterns that were used to make the banner.
+    hide: true
+
+# Credentials for retrieving country codes from IP addresses. This plugin uses a service
+#  called MaxMind, which requires the registration of a FREE account. Please create an
+#  account at https://www.maxmind.com/en/geolite2/signup, go to 'Manage license keys', and
+#  'Generate new license key'. Then add the 'Account ID' and 'License Key' down here.
+maxmind:
+  account-id: 0 # i.e. 123456
+  license-key: '' # i.e. xxxxxx_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx_xxx
+
+# Events when a player will be given their country banner.
+#  'first_join' = only when a player joins for the first time
+#  'join'       = every time a player joins the server
+enabled-events: ['first_join']
+
+# The position to hand out the banner to.
+#  'helmet'    = on their head
+#  'main_hand' = in their main hand
+#  'off_hand'  = in their off-hand
+#  'inventory' = to their inventory
+hand-out-position: 'helmet'
+
+# Show a message on start-up when an update is available for the plugin.
+notify-on-update: true

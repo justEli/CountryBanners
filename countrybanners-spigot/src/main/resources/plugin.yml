@@ -1,0 +1,6 @@
+name: '${project.name}'
+main: '${project.groupId}.${plugin.main}'
+version: '${project.version}'
+api-version: '${version.minecraft}'
+website: '${project.distributionManagement.downloadUrl}'
+author: 'JustEli'
