@@ -1,0 +1,30 @@
+{
+  "country": "South Korea",
+  "banner": "minecraft:blue_banner",
+  "patterns": [
+    {
+      "color": "red",
+      "pattern": "minecraft:diagonal_right"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_top"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:stripe_bottom"
+    },
+    {
+      "color": "black",
+      "pattern": "minecraft:triangles_top"
+    },
+    {
+      "color": "black",
+      "pattern": "minecraft:triangles_bottom"
+    },
+    {
+      "color": "white",
+      "pattern": "minecraft:border"
+    }
+  ]
+}
